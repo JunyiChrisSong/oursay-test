@@ -1,0 +1,31 @@
+body {
+    background-color: #003057;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 2em;
+    padding-left: 1em;
+    font-stretch: condensed;
+    text-align: center;
+    text-shadow: 0 1px 2px #000000;
+    vertical-align: middle;
+    margin-bottom: 3rem;
+}
+
+p {
+    text-align: center;
+    font-family: inherit;
+    padding: 0;
+    margin-bottom: 3rem;
+
+    font-size: 1.75rem;
+    font-weight: bold;
+    
+    font-stretch: condensed;
+    text-rendering: optimizeLegibility;
+}
+
+.progress-bar-check-in {
+    max-height: 6rem;
+  }

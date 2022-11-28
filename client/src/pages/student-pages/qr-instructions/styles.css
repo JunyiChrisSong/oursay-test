@@ -1,0 +1,36 @@
+.instructionTitle {
+    padding: 2rem 0;
+}
+h1 {
+    margin: 0;
+    color: #ffffff;
+    font-size: 2em;
+    padding-left: 1em;
+    font-stretch: condensed;
+    text-align: center;
+    text-shadow: 0 1px 2px #000000;
+    vertical-align: middle;
+    padding-bottom: 0;
+}
+
+p {
+    text-align: center;
+    font-family: inherit;
+    padding: 0;
+    margin: 0;
+    font-size: 1.75rem;
+    font-weight: bold;
+    
+    font-stretch: condensed;
+    text-rendering: optimizeLegibility;
+
+}
+
+
+.progress-bar-check-in {
+    margin-top: 5rem;
+    height: min(10vh, 10vw);
+    background-position: center;
+    max-height: 6rem;
+    
+}

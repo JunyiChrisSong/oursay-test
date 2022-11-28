@@ -1,0 +1,57 @@
+body{
+    background-color: #B3A369;
+}
+.titleArea{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 15rem;
+    padding: 0px;
+}
+
+.subtitle{
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.content{
+    color: white;
+    font-size: .75rem;
+    text-align: center;
+    margin: 1rem 6rem 1rem 6rem;
+}
+
+.buttonArea{
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    height: 1.25rem;
+    width: 6rem;
+    border: none;
+    border-radius: .2rem;
+    font-size: 0.75rem;
+    font-weight: 200;
+    
+}
+
+.buttons{
+    margin: 0 auto;
+    background-color: white;
+    height: 1.5rem;
+    width: 6rem;
+    border: none;
+    border-radius: .2rem;
+    font-size: 0.75rem;
+    font-weight: 200;
+    color: #B3A369;
+}
+
+.submit-button-styling {
+    margin-top: 2.5rem;
+}
+
+.json-data-styling {
+    padding: 30px;
+}

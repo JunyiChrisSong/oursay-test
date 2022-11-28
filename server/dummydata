@@ -1,0 +1,47 @@
+{
+    "eventid": 1,
+    "teams": [
+        [["Jimmy","Bob","Sara"],17,0,"Team A"],
+        [["tomas","cris","carmikael"],7,1,"Team B"],
+        [["clar","ashleigh","conor"],7,2,"Team C"]
+    ],
+	"name": "Event A"
+}
+{
+    "eventid": 2,
+    "teams": [
+        [["Jimmy","Bob","Sara"],17,0,"Team A"],
+        [["tomas","cris","carmikael"],7,1,"Team B"],
+        [["clar","ashleigh","conor"],7,2,"Team C"]
+    ],
+	"name": "Event B"
+}
+
+
+
+
+
+
+// THIS IS WHAT THE DATABASE RETURNS
+[
+{
+    "_id": 1,
+    "teams": [
+        [["Jimmy","Bob","Sara"],17,0,"Team A"],
+        [["tomas","cris","carmikael"],7,1,"Team B"],
+        [["clar","ashleigh","conor"],7,2,"Team C"]
+    ],
+	"name": "Event A",
+    "open": true
+},
+{
+    "_id": 2,
+    "teams": [
+        [["Jimmy","Bob","Sara"],17,0,"Team A"],
+        [["tomas","cris","carmikael"],7,1,"Team B"],
+        [["clar","ashleigh","conor"],7,2,"Team C"]
+    ],
+	"name": "Event B",
+    "open": true
+}
+]
